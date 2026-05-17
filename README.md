@@ -228,3 +228,13 @@ I can help you with:
 ✔ Complete report + architecture diagram
 
 Just tell me 👍
+
+
+
+
+
+[19:25, 16/05/2026] Siddhi Khandarkar: cp .env.example .env 
+ecommerce
+[19:49, 16/05/2026] Siddhi Khandarkar: app.listen(port, '0.0.0.0',() => in server.js 
+e-commerce
+cp change env.example to .env
