@@ -238,3 +238,8 @@ ecommerce
 [19:49, 16/05/2026] Siddhi Khandarkar: app.listen(port, '0.0.0.0',() => in server.js 
 e-commerce
 cp change env.example to .env
+
+
+
+atlast siddhi_db:
+mongodb+srv://siddhikhandarkar_db_user:blog@blog.vhek8t6.mongodb.net/?appName=Blog
